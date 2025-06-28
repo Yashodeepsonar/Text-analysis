@@ -1,5 +1,6 @@
 # Sarcasm Detection using Deep Learning
-![image](https://github.com/user-attachments/assets/acaef786-3979-45bd-b644-6cfb93c99ea8)
+![image](https://github.com/user-attachments/assets/0d4cdba8-fc02-4782-8848-93f17fa1b638)
+
 
 
 ## Abstract
