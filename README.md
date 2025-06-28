@@ -1,6 +1,6 @@
 # Sarcasm Detection using Deep Learning
+![image](https://github.com/user-attachments/assets/acaef786-3979-45bd-b644-6cfb93c99ea8)
 
-![Project Banner](https://via.placeholder.com/800x200?text=Sarcasm+Detection+using+Deep+Learning)
 
 ## Abstract
 Sarcasm is the use of words intended to convey the opposite meaning, often to offend, irritate, or amuse. This project aims to recognize sarcasm in plain text using Natural Language Processing and Deep Learning techniques. The challenge lies in identifying sarcasm without contextual cues like tone, facial expressions, or body language. Our solution leverages machine learning models to distinguish between regular and sarcastic sentences.
